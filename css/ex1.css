@@ -1,0 +1,41 @@
+h1{
+    color:hotpink;
+    font-size:35px;
+    font-weight:bold;
+    font-family:"impact";
+    text-align:center;
+    background-color:lightblue;
+}
+
+h2{
+    color:gray;
+    font-size:25px;
+    font-weight:bold;
+    font-family:"impact";
+    text-align:center;
+    background-color:lightgreen;
+}
+
+h3{
+    color:red;
+}
+
+p{
+    color:aqua;
+}
+
+body{
+    background-image: url("../images/mokume.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+table{
+    background-color:lightskyblue;
+}
+
+ol{
+     background-image: url("../images/pink.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
