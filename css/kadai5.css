@@ -1,0 +1,92 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 30px;
+    font-family: "impact";
+}
+
+div.menu{
+    width:1000px;
+    height:320px;
+    background-color: cornsilk;
+    margin:10px 0px;
+    font-size:0;
+}  
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: cadetblue;
+    text-align: right;
+    font-size: 30px;
+}
+
+div.left{
+    width:250px;
+    height:320px;
+    background-color: pink;
+    vertical-align: middle;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 50px;
+    font-size: 40px;
+}
+
+div.right{
+    width:700px;
+    height:320px;
+    background-color: pink;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin:0px;
+    font-size: 40px;
+}  
+
+div.top{
+    width:250px;
+    height:100px;
+    background-color: red;
+    text-align: left;
+    margin:0px;
+    font-size:20px; 
+}
+
+div.middle{
+    width:250px;
+    height:100px;
+    background-color: red;
+    text-align: left;
+    margin:10px 0px;
+    font-size:20px; 
+}
+
+
+div.bottom{
+    width:250px;
+    height:100px;
+    background-color: red;
+    text-align: left;
+    margin:0px;
+    font-size:20px; 
+}
+
+div.up{
+    width:700px;
+    height:300px;
+    background-color: black;
+    margin:0px; 
+}
+
+div.down{
+    width:700px;
+    height:20px;
+    background-color: blue;
+    text-align: left;
+    margin:0px;
+    font-size:15px; 
+}
+
