@@ -1,0 +1,55 @@
+h1{
+    color:hotpink;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"impact";
+    text-align:center;
+    background-color:yellow;
+}
+
+h2{
+    color:gray;
+    font-size:25px;
+    font-weight:bold;
+    font-family:"impact";
+    text-align:center;
+    background-color:lightgreen;
+}
+
+h3{
+    color:red;
+}
+
+p{
+    color:black;
+    text-align: center;
+    font-family:"impact";
+}
+
+div.kusa{
+    color: chartreuse;
+    text-align: center;
+    font-size: 20px;
+}
+
+div.honoo{
+    color:coral;
+    text-align: center;
+    font-size: 20px;
+}
+
+div.mizu{
+    color:cornflowerblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+img.houen{
+    width:640px;
+}
+
+body{
+    background-image: url("../images/monbo.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}

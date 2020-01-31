@@ -1,0 +1,150 @@
+div.title{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 30px;
+    font-family: "impact";
+}
+
+div.menu{
+    margin:10px 0px;
+    font-size:0;
+}  
+
+div.footer{
+    background-color: cadetblue;
+    text-align: right;
+    margin:10px 0px;
+    font-size: 30px;
+}
+
+div.left{
+    vertical-align: middle;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 40px;
+}
+
+div.right{
+    width:auto;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin:0px;
+    font-size: 40px;
+}  
+
+div.p1{
+    width:290px;
+    height:40px;
+    background-color: red;
+    text-align: center;
+    text-decoration-color: yellow;
+    margin:0px;
+    font-size:30px; 
+    border:5px dotted white;
+}
+
+div.p2{
+    width:290px;
+    height:40px;
+    background-color: red;
+    text-align: center;
+    margin:10px 0px;
+    font-size:30px; 
+    border:5px dotted white;
+}
+
+div.p3{
+    width:290px;
+    height:40px;
+    background-color: red;
+    text-align: center;
+    margin:10px 0px;
+    font-size:30px; 
+    border:5px dotted white;
+}
+
+div.p4{
+    width:290px;
+    height:40px;
+    background-color: red;
+    text-align: center;
+    margin:10px 0px;
+    font-size:30px; 
+    border:5px dotted white;
+}
+
+div.p5{
+    width:290px;
+    height:40px;
+    background-color: red;
+    text-align: center;
+    margin:10px 0px;
+    font-size:30px; 
+    border:5px dotted white;
+}
+
+div.p6{
+    width:290px;
+    height:40px;
+    background-color: red;
+    text-align: center;
+    margin:10px 0px;
+    font-size:30px; 
+    border:5px dotted white;
+}
+
+div.p7{
+    width:290px;
+    height:40px;
+    background-color: red;
+    text-align: center;
+    margin:10px 0px;
+    font-size:30px; 
+    border:5px dotted white;
+}
+
+div.p8{
+    width:290px;
+    height:40px;
+    background-color: red;
+    text-align: center;
+    margin:0px;
+    font-size:30px; 
+    border:5px dotted white;
+}
+
+div.up{
+    width:690px;
+    height:300px;
+    background-color: black;
+    margin:0px; 
+}
+
+div.down{
+    width:690px;
+    height:20px;
+    background-color: blue;
+    text-align: left;
+    margin:0px;
+    font-size:15px; 
+}
+
+div.wrap{
+    width: 1000px;
+    margin:auto;
+}
+
+img.home{
+    width:690px;
+    height:470px;
+    text-align: left;
+}
+    
+body{
+    background-image: url("../images/monbo.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
